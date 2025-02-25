@@ -5,7 +5,7 @@ A luxurious and interactive landing page for an exclusive Maasai Mara safari exp
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e0eee8f6-e4d1-40d8-a22c-3b34eccb10d1
+**URL**: https://travel-ula-landing-page-assignment.vercel.app
 
 ## Features
 
@@ -35,11 +35,6 @@ This project is built with modern web technologies:
 
 There are several ways to work with this codebase:
 
-### Use Lovable
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/e0eee8f6-e4d1-40d8-a22c-3b34eccb10d1) and start prompting.
-Changes made via Lovable will be committed automatically to this repo.
-
 ### Local Development
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
@@ -52,10 +47,10 @@ Prerequisites:
 git clone <YOUR_GIT_URL>
 
 # Navigate to project directory
-cd <YOUR_PROJECT_NAME>
+cd <Travel-ula-landing-page>
 
 # Install dependencies
-npm i
+npm install
 
 # Start development server
 npm run dev
@@ -83,10 +78,6 @@ npm run dev
 - `/src/pages`: Main page components and routing
 
 ## Deployment
-
-### Quick Deploy
-
-Simply open [Lovable](https://lovable.dev/projects/e0eee8f6-e4d1-40d8-a22c-3b34eccb10d1) and click on Share -> Publish.
 
 ### Custom Domain
 
