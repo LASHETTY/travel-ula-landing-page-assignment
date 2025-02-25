@@ -1,69 +1,98 @@
-# Welcome to your Lovable project
+
+# Maasai Mara Safari Experience
+
+A luxurious and interactive landing page for an exclusive Maasai Mara safari experience. This project showcases a modern, responsive design with smooth animations and real-time user feedback.
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/e0eee8f6-e4d1-40d8-a22c-3b34eccb10d1
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+- 🎨 Modern, responsive design with seamless animations
+- 📱 Mobile-first approach
+- 🎯 Interactive booking system with real-time feedback
+- 🔔 Toast notifications for user interactions
+- ♿ Accessible UI components
+- 🖼️ Dynamic image gallery
+- 📅 Detailed itinerary section
+- 💰 Interactive pricing component
+- 🔄 Loading states and transitions
 
-**Use Lovable**
+## Technologies Used
+
+This project is built with modern web technologies:
+
+- **React + Vite**: For a fast and efficient development experience
+- **TypeScript**: For type safety and better development experience
+- **Tailwind CSS**: For utility-first styling
+- **shadcn/ui**: For beautiful, accessible UI components
+- **Lucide Icons**: For consistent and scalable icons
+- **React Hook Form**: For form handling
+- **Radix UI**: For accessible component primitives
+
+## Getting Started
+
+There are several ways to work with this codebase:
+
+### Use Lovable
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/e0eee8f6-e4d1-40d8-a22c-3b34eccb10d1) and start prompting.
-
 Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
+### Local Development
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Prerequisites:
+- Node.js & npm - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project directory
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+### Edit on GitHub
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Navigate to desired file(s)
+- Click "Edit" button (pencil icon)
+- Make changes and commit
 
-**Use GitHub Codespaces**
+### Use GitHub Codespaces
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+1. Navigate to repository main page
+2. Click "Code" button (green)
+3. Select "Codespaces" tab
+4. Click "New codespace"
+5. Edit and commit changes
 
-## What technologies are used for this project?
+## Project Structure
 
-This project is built with .
+- `/src/components`: UI components including Navbar, Hero, Overview, Itinerary, Gallery, and Pricing
+- `/src/hooks`: Custom hooks for toast notifications and other functionality
+- `/src/lib`: Utility functions and helpers
+- `/src/pages`: Main page components and routing
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Deployment
 
-## How can I deploy this project?
+### Quick Deploy
 
 Simply open [Lovable](https://lovable.dev/projects/e0eee8f6-e4d1-40d8-a22c-3b34eccb10d1) and click on Share -> Publish.
 
-## I want to use a custom domain - is that possible?
+### Custom Domain
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+While we don't currently support custom domains directly, you can deploy to Netlify for custom domain support. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+
+## Contributing
+
+Feel free to submit issues and enhancement requests!
+
